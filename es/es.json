@@ -1,0 +1,89 @@
+{
+    "boilerplate.components.Footer.author.message": {
+        "translation": ""
+    },
+    "boilerplate.components.Footer.license.message": {
+        "translation": ""
+    },
+    "boilerplate.components.Header.features": {
+        "translation": ""
+    },
+    "boilerplate.components.Header.home": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.css.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.css.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.feedback.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.feedback.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.internationalization.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.internationalization.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.javascript.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.javascript.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.network.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.network.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.routing.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.routing.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.scaffolding.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.scaffolding.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.state_management.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.FeaturePage.state_management.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.HomePage.start_project.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.HomePage.start_project.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.HomePage.tryme.atPrefix": {
+        "translation": ""
+    },
+    "boilerplate.containers.HomePage.tryme.header": {
+        "translation": ""
+    },
+    "boilerplate.containers.HomePage.tryme.message": {
+        "translation": ""
+    },
+    "boilerplate.containers.LocaleToggle.de": {
+        "translation": ""
+    },
+    "boilerplate.containers.LocaleToggle.en": {
+        "translation": ""
+    },
+    "boilerplate.containers.NotFoundPage.header": {
+        "translation": "Página no encontrada."
+    }
+}
