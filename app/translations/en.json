@@ -29,5 +29,6 @@
   "boilerplate.containers.LocaleToggle.en": "en",
   "boilerplate.containers.NotFoundPage.header": "Page not found.",
 
-  "boilerplate.components.NewComponent.header": "Scan Actions Title"
+  "boilerplate.components.NewComponent.header": "Scan Actions Title",
+  "boilerplate.components.NewComponent.content": "Scan Actions Content"
 }
